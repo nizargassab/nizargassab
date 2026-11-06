@@ -70,7 +70,6 @@
 <details open>
 <summary>📈 More Stats</summary>
 <br />
-<p align="center"><img src="assets/generated/languages.svg" width="72%" alt="Languages in Nizar's public repositories" /></p>
 <p align="center"><img src="assets/generated/contributions-3d.svg" width="100%" alt="Nizar's daily GitHub contributions in 3D" /></p>
 <p align="center"><img src="assets/generated/activity.svg" width="100%" alt="Nizar's weekly contribution activity" /></p>
 </details>
