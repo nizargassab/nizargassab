@@ -1,7 +1,7 @@
 <a href="https://nizar-gassab-portfolio.vercel.app/">
 <picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/hero-3d-still.png" />
-  <img src="assets/hero-3d.webp" width="100%" alt="Nizar Gassab — Full-stack engineering, SaaS, secure APIs and applied AI. Explore my portfolio." />
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/hero-cartoon-still.png" />
+  <img src="assets/hero-cartoon.webp" width="100%" alt="Nizar Gassab — Full-stack engineering, SaaS, secure APIs and applied AI. Explore my portfolio." />
 </picture>
 </a>
 
@@ -63,13 +63,6 @@ Freelance products and team contributions. Each project links to a public overvi
 </table>
 
 **More projects:** [Interactive KPI dashboard](https://nizar-gassab-portfolio.vercel.app/projets/dashboard-kpi/) · [Responsible e-commerce](https://nizar-gassab-portfolio.vercel.app/projets/eco-commerce/) · [University chatbot](https://nizar-gassab-portfolio.vercel.app/projets/chatbot-universitaire/)
-
-### Public code contributions
-
-- [SyndExpress frontend](https://github.com/Lumiatechnologie/SyndExpress_FrontEnd) — React/TypeScript team repository at Lumia Tech.
-- [E-Commerce-Ecologique](https://github.com/BHALLI-AYOUB/E-Commerce-Ecologique) — collaborative academic e-commerce project.
-
-These are team repositories with my contributions; the project showcases above describe my individual scope.
 
 ## My engineering stack
 
