@@ -4,7 +4,7 @@
 
 I build web applications with React, Java and Python. My work includes classroom tools, browser telephony, CRM systems and AI integrations.
 
-### [Portfolio & project demos ↗](https://nizar-gassab-portfolio.vercel.app/)
+### [Portfolio & project demos](https://nizar-gassab-portfolio.vercel.app/)
 
 [LinkedIn](https://www.linkedin.com/in/nizar-gassab-b872b5244/) · [Email](mailto:nizargassab36@gmail.com)
 
@@ -42,7 +42,7 @@ Business services and React / React Native interfaces for property management. I
 **[Health Track](https://github.com/nizargassab/health-track-showcase)**  
 Spring Cloud services, JWT authentication and an Angular dashboard for medical follow-up. Engineering internship at E-AMBITION, 2025.
 
-[More work in my portfolio →](https://nizar-gassab-portfolio.vercel.app/#projets)
+[More work in my portfolio](https://nizar-gassab-portfolio.vercel.app/#projets)
 
 ## Technologies
 
