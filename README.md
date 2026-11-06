@@ -58,6 +58,13 @@ Freelance products and team contributions. Each project links to a public overvi
 
 **More projects:** [Interactive KPI dashboard](https://nizar-gassab-portfolio.vercel.app/projets/dashboard-kpi/) · [Responsible e-commerce](https://nizar-gassab-portfolio.vercel.app/projets/eco-commerce/) · [University chatbot](https://nizar-gassab-portfolio.vercel.app/projets/chatbot-universitaire/)
 
+### Public code contributions
+
+- [SyndExpress frontend](https://github.com/Lumiatechnologie/SyndExpress_FrontEnd) — React/TypeScript team repository at Lumia Tech.
+- [E-Commerce-Ecologique](https://github.com/BHALLI-AYOUB/E-Commerce-Ecologique) — collaborative academic e-commerce project.
+
+These are team repositories with my contributions; the project showcases above describe my individual scope.
+
 ## My engineering stack
 
 | Area | Tools I use | Applied to |
