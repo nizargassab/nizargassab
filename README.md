@@ -1,13 +1,19 @@
-<a href="https://nizar-gassab-portfolio.vercel.app/"><img src="assets/header.svg" width="100%" alt="Nizar Gassab — Full-stack engineering and applied AI" /></a>
+<a href="https://nizar-gassab-portfolio.vercel.app/">
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/hero-3d-still.png" />
+  <img src="assets/hero-3d.webp" width="100%" alt="Nizar Gassab — Full-stack engineering, SaaS, secure APIs and applied AI. Explore my portfolio." />
+</picture>
+</a>
+
+<a href="https://nizar-gassab-portfolio.vercel.app/"><img src="assets/portfolio-cta.svg" width="100%" alt="EXPLORE MY PORTFOLIO — nizar-gassab-portfolio.vercel.app" /></a>
 
 <p align="center">
-  <a href="https://nizar-gassab-portfolio.vercel.app/"><strong>Portfolio ↗</strong></a>&nbsp;&nbsp; / &nbsp;&nbsp;
+  <a href="https://nizar-gassab-portfolio.vercel.app/"><strong>View portfolio & project demos ↗</strong></a>&nbsp;&nbsp; / &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/nizar-gassab-b872b5244/">LinkedIn</a>&nbsp;&nbsp; / &nbsp;&nbsp;
-  <a href="https://www.upwork.com/freelancers/~01e66249ec727ea66f">Upwork</a>&nbsp;&nbsp; / &nbsp;&nbsp;
-  <a href="mailto:nizargassab36@gmail.com">Get in touch</a>
+  <a href="mailto:nizargassab36@gmail.com">Contact me</a>
 </p>
 
-### I build the interface, the services, and the connections between them.
+### I turn complex workflows into useful software.
 
 I'm **Nizar**, a full-stack developer based in Casablanca. I build web applications and SaaS products, working across **React/TypeScript, Java/Spring Boot and Python/FastAPI**. My projects connect product interfaces with secure APIs, payments, document generation, real-time communications and practical AI integrations.
 

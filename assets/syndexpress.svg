@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="500" height="180" viewBox="0 0 500 180" role="img" aria-label="SyndExpress — Spring Boot · React · React Native">
 <title>SyndExpress — Spring Boot · React · React Native</title>
-<rect width="500" height="180" rx="8" fill="#111210"/>
-<text x="24" y="34" fill="#c8ef74" font-family="Arial,Helvetica,sans-serif" font-size="17" letter-spacing="0.8">05 / WEB &amp; MOBILE</text>
-<text x="22" y="94" fill="#f1f1eb" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="48" letter-spacing="-1.8">SyndExpress</text>
-<path d="M24 118H476" stroke="#34362f"/>
-<text x="24" y="150" fill="#c9ccbf" font-family="Arial,Helvetica,sans-serif" font-size="18">Spring Boot · React · React Native</text>
-<path d="M455 37L473 19M455 19H473V37" stroke="#c8ef74" stroke-width="1.5" fill="none"/>
+<rect width="500" height="180" rx="8" fill="#0b1018"/>
+<text x="24" y="34" fill="#64dcff" font-family="Arial,Helvetica,sans-serif" font-size="17" letter-spacing="0.8">05 / WEB &amp; MOBILE</text>
+<text x="22" y="94" fill="#edf4fc" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="48" letter-spacing="-1.8">SyndExpress</text>
+<path d="M24 118H476" stroke="#263448"/>
+<text x="24" y="150" fill="#a6b6ca" font-family="Arial,Helvetica,sans-serif" font-size="18">Spring Boot · React · React Native</text>
+<path d="M455 37L473 19M455 19H473V37" stroke="#64dcff" stroke-width="1.5" fill="none"/>
 </svg>
