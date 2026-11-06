@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="IZEMX Lab — The platform behind AI workflows."><title>IZEMX Lab — The platform behind AI workflows.</title><rect width="1200" height="300" rx="12" fill="#111210"/><path d="M48 220H1152" stroke="#34362f"/><text x="48" y="51" fill="#c8ef74" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="400" letter-spacing="1.2">04 / AI PLATFORM / MICROSERVICES</text><text x="44" y="134" fill="#f1f1eb" font-family="Arial,Helvetica,sans-serif" font-size="64" font-weight="700" letter-spacing="-2">IZEMX Lab</text><text x="48" y="182" fill="#bfc2b6" font-family="Arial,Helvetica,sans-serif" font-size="25" font-weight="400" >The platform behind AI workflows.</text><text x="48" y="264" fill="#c9ccbf" font-family="Arial,Helvetica,sans-serif" font-size="19" font-weight="400" >Spring Boot · React · Keycloak · LiteLLM</text><g transform="translate(1010 92)" stroke="#c8ef74" fill="none" stroke-width="2"><rect x="0" y="0" width="80" height="80" rx="12"/><path d="M22 58L58 22M23 22H58V57"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="180" viewBox="0 0 500 180" role="img" aria-label="IZEMX Lab — Spring Boot · React · Keycloak · LiteLLM">
+<title>IZEMX Lab — Spring Boot · React · Keycloak · LiteLLM</title>
+<rect width="500" height="180" rx="8" fill="#111210"/>
+<text x="24" y="34" fill="#c8ef74" font-family="Arial,Helvetica,sans-serif" font-size="17" letter-spacing="0.8">04 / AI PLATFORM</text>
+<text x="22" y="94" fill="#f1f1eb" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="48" letter-spacing="-1.8">IZEMX Lab</text>
+<path d="M24 118H476" stroke="#34362f"/>
+<text x="24" y="150" fill="#c9ccbf" font-family="Arial,Helvetica,sans-serif" font-size="18">Spring Boot · React · Keycloak · LiteLLM</text>
+<path d="M455 37L473 19M455 19H473V37" stroke="#c8ef74" stroke-width="1.5" fill="none"/>
+</svg>
